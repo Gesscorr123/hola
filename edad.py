@@ -10,10 +10,8 @@ def libros(a):
         print("Hola Laura")
     else:
         print("No eres Laura")
-    if a == 'Santiago':
-        print("Hola Santiago")
-    else:
-        print("No eres Santiago")
     return
 
 libros(a='jose')
+
+print("Que se dice")
