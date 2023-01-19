@@ -6,10 +6,10 @@ else:
     print("Eres menor de edad")
 
 def libros(a):
-    if a == 'Maria':
-        print("Hola Maria")
+    if a == 'Laura':
+        print("Hola Laura")
     else:
-        print("No eres Maria")
+        print("No eres Laura")
     return
 
 libros(a='jose')
